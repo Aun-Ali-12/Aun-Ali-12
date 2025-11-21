@@ -15,6 +15,12 @@
 
 
 <br>
+<h1 align="left">🚀<b>Currently Learning</h1>
+
+- Advanced React patterns (Hooks, Context, Redux)  
+- Fullstack development with Supabase / Firebase  
+- AI Chatbot integrations with OpenAI API  
+- Building more frontend & fullstack projects</p>
 
 ## Language and Tools
 
