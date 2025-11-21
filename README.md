@@ -15,12 +15,7 @@
 
 
 <br>
-<h1 align="left">🚀<b>Currently Learning</h1>
 
-- Advanced React patterns (Hooks, Context, Redux)  
-- Fullstack development with Supabase / Firebase  
-- AI Chatbot integrations with OpenAI API  
-- Building more frontend & fullstack projects</p>
 
 ## Language and Tools
 
@@ -41,6 +36,13 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
 <br>
+
+<h1 align="left">🚀<b>Currently Learning</h1>
+
+- Advanced React patterns (Hooks, Context, Redux)  
+- Fullstack development with Supabase  
+- AI Chatbot integrations with OpenAI API  
+- Building more frontend & fullstack projects
 
 ## Contact me:
 <div>
