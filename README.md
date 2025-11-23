@@ -28,6 +28,8 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
   [<img height="48px" width="48px" alt="JavaScript" src="https://skillicons.dev/icons?i=js" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="React" src="https://skillicons.dev/icons?i=react" />](https://react.dev/)
   [<img height="48px" width="48px" alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" />](https://tailwindcss.com/)
+  [<img height="48px" width="48px" alt="Supabase" src="https://skillicons.dev/icons?i=supabase" />](https://supabase.com/)
+
 
 
 #### Tools:
