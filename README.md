@@ -1,7 +1,7 @@
 ![logo](https://github.com/Furqanali03/Furqanali03/blob/main/background.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aun-Ali-12&label=Profile%20views&color=0e75b6&style=flat" alt="Aun-Ali-12" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=52ccf2&size=35&center=true&vCenter=true&width=1000&lines=Greetings+I'm+Aun+Ali;I'm+Currently+Learning+Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=52ccf2&size=35&center=true&vCenter=true&width=1000&lines=Greetings!+I'm+Aun+Ali;I'm+Currently+Learning+Web+Development)](https://git.io/typing-svg)
 
 <h3 align="center">"Clean code always looks like it was written by someone who cares."</h3>
 <h4 align="center">— Robert C. Martin</h4>
