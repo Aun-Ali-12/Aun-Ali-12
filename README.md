@@ -41,9 +41,8 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
 
 <h1 align="left">🚀<b>Currently Learning</h1>
 
-- Advanced React patterns (Hooks, Context, Redux)  
-- Fullstack development with Supabase  
-- AI Chatbot integrations with OpenAI API  
+- Advanced React patterns (Redux toolkit)  
+- Fullstack development with Supabase    
 - Building more frontend & fullstack projects
 
 ## Contact me:
