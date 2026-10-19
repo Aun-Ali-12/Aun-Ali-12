@@ -41,9 +41,7 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
 <br>
 
 <h1 align="left">🚀<b>Currently Learning</h1>
-
-- Advanced React patterns (Redux toolkit)  
-- Fullstack development with Supabase    
+    
 - Building more frontend & fullstack projects
 
 ## Contact me:
