@@ -30,6 +30,10 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
   [<img height="48px" width="48px" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs" />](https://nextjs.org/)
   [<img height="48px" width="48px" alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" />](https://tailwindcss.com/)
   [<img height="48px" width="48px" alt="Supabase" src="https://skillicons.dev/icons?i=supabase" />](https://supabase.com/)
+  [<img height="48px" width="48px" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/)
+  [<img height="48px" width="48px" alt="Express.js" src="https://skillicons.dev/icons?i=express" />](https://expressjs.com/)
+  [<img height="48px" width="48px" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />](https://www.mongodb.com/)
+  [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github" />](https://github.com/)
 
 
 
