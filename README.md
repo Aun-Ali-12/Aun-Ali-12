@@ -35,17 +35,12 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
   [<img height="48px" width="48px" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />](https://www.mongodb.com/)
 
 
-
 #### Tools:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
 <br>
-
-<h1 align="left">🚀<b>Currently Learning</h1>
-    
-- Building more frontend & fullstack projects
 
 ## Contact me:
 <div>
